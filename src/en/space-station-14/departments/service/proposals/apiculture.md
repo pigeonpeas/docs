@@ -6,7 +6,7 @@
 
 ## Overview
 
-Apiculture would add Apiaries into hydroponics, allowing botanists to take care of bees along with their usual job. At roundstart, a queen bee will have to be placed inside of a hive to start producing bees. These bees would exit the nest, and seek out plants to get nectar, and sustain their hive. After bees get nectar and bring it back to the hive, they will then produce honey. Without any plants to harvest nectar from, a hive will eventually die out, leading to the botanists having to purchase a new queen to start a new hive.
+Apiculture, also known as Beekeeping, would add Apiaries into hydroponics, allowing botanists to take care of bees along with their usual job. This adds more variety to a botanist's job, allowing them to use their plants in a new way, generating resources like honey for the entire station. They would also be able to mutate bees, allowing them to generate more chemicals for the station, allowing for an alternate source of chemicals in the case that chemistry can no longer produce them.
 
 ## Background
 
